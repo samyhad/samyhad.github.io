@@ -20,12 +20,12 @@ cv:
     countryCode: BR
 
   sections:
-    Education:
+    Educação:
       - institution: Universidade Federal do ABC (UFABC)
         location: Santo André, SP
         url: https://www.ufabc.edu.br/
         area: Ciência da Computação
-        studyType: Bacharelado
+        studyType: Bacharelado em ciência da computação
         start_date: 2024
         end_date: 2026
         score: ""
@@ -35,13 +35,13 @@ cv:
         location: Santo André, SP
         url: https://www.ufabc.edu.br/
         area: Ciência e Tecnologia
-        studyType: Bacharelado
+        studyType: Bacharelado em ciências e tecnologia
         start_date: 2018
         end_date: 2024
         score: ""
         
 
-    Experience:
+    Experiências:
       - company: Itaú Unibanco
         position: Cientista de Dados II
         location: São Paulo, SP
@@ -88,7 +88,7 @@ cv:
     #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
     #       - "Men of the year 2014 by Time magazine"
 
-    Awards:
+    Premiações:
       - title: Batalha de Dados
         authors:
           - "Itaú Unibanco"
@@ -98,7 +98,7 @@ cv:
         summary: A Batalha de Dados é um hackathon institucional promovido pelo Itaú Unibanco com o objetivo de fomentar a inovação, estimular a cultura Data Driven e encontrar soluções para desafios reais do mercado
 
 
-    Publications:
+    Publicações:
       - title: Estudo de Interpretabilidade de Redes Neurais Profundas para Classificação de Imagens Médicas
         authors:
           - Samira Haddad
@@ -117,19 +117,19 @@ cv:
         url: 
         summary: 
 
-    Languages:
+    Linguagens:
       - name: Português
         summary: "Nativo"
 
       - name: Inglês
         summary: "Intermediário"
 
-    Interests:
+    Interesses:
       - name: Ciência de dados
         icon: fa-solid fa-tag
         keywords: "Machine Learning, Deep Learning, Data Analysis, Data Visualization, Statistical Modeling, GenAi"
 
-    Certificates:
+    Certificações:
       - name: Agile Meets Design Thinking # [cite: 53]
         date: 2020-01-01 # [cite: 53]
         issuer: Universidade da Virginia via Coursera # [cite: 53]
