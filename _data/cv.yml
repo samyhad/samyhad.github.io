@@ -20,12 +20,12 @@ cv:
     countryCode: BR
 
   sections:
-    Educação:
+    Education:
       - institution: Universidade Federal do ABC (UFABC)
         location: Santo André, SP
         url: https://www.ufabc.edu.br/
         area: Ciência da Computação
-        studyType: Bacharelado em ciência da computação
+        studyType: Bacharelado em Ciência da Computaçãos
         start_date: 2024
         end_date: 2026
         score: ""
@@ -35,13 +35,13 @@ cv:
         location: Santo André, SP
         url: https://www.ufabc.edu.br/
         area: Ciência e Tecnologia
-        studyType: Bacharelado em ciências e tecnologia
+        studyType: Bacharelado em Ciência e Tecnologia
         start_date: 2018
         end_date: 2024
         score: ""
         
 
-    Experiências:
+    Experience:
       - company: Itaú Unibanco
         position: Cientista de Dados II
         location: São Paulo, SP
@@ -88,7 +88,7 @@ cv:
     #       - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
     #       - "Men of the year 2014 by Time magazine"
 
-    Premiações:
+    Awards:
       - title: Batalha de Dados
         authors:
           - "Itaú Unibanco"
@@ -98,7 +98,7 @@ cv:
         summary: A Batalha de Dados é um hackathon institucional promovido pelo Itaú Unibanco com o objetivo de fomentar a inovação, estimular a cultura Data Driven e encontrar soluções para desafios reais do mercado
 
 
-    Publicações:
+    Publications:
       - title: Estudo de Interpretabilidade de Redes Neurais Profundas para Classificação de Imagens Médicas
         authors:
           - Samira Haddad
@@ -117,19 +117,19 @@ cv:
         url: 
         summary: 
 
-    Linguagens:
+    Languages:
       - name: Português
         summary: "Nativo"
 
       - name: Inglês
         summary: "Intermediário"
 
-    Interesses:
+    Interests:
       - name: Ciência de dados
         icon: fa-solid fa-tag
         keywords: "Machine Learning, Deep Learning, Data Analysis, Data Visualization, Statistical Modeling, GenAi"
 
-    Certificações:
+    Certificates:
       - name: Agile Meets Design Thinking # [cite: 53]
         date: 2020-01-01 # [cite: 53]
         issuer: Universidade da Virginia via Coursera # [cite: 53]
