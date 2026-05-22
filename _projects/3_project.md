@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Face recognition
+description: Realizando reconhecimento facial com OpenCV
+img: assets/img/project_3.png
+redirect: https://github.com/samyhad/FaceRecognition
 importance: 3
 category: work
 ---

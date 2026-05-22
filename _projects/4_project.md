@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Medivisão - Auxílio ao Diagnóstico de Câncer de Pele
+description: Detecção precoce de câncer de pele utilizando redes neurais e pré processamento de imagens
+img: assets/img/project_4.png
+redirect: https://github.com/samyhad/skin_cancer_detection
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

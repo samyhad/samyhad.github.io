@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Travel assistent
+description: Projeto que cria um agente capaz de sugerir o local ideial para sua próxima viagem
+img: assets/img/project_2.png
 importance: 2
 category: work
 giscus_comments: true
+redirect: https://github.com/samyhad/travel_assistant
 ---
 
 Every project has a beautiful feature showcase page.
