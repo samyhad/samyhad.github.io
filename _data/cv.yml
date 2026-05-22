@@ -4,7 +4,7 @@ cv:
   email: samira.had.2000@gmail.com
   location: São Paulo, SP
   image: ""
-  summary: I am a computer science student who sees a lot of potential in big data analysis and interpretation.
+  summary: Sou uma estudante de ciências da computação que enxerga muito potencial na análise e interpretação de dados em grande escala.
 
   social_networks:
     - network: GitHub
@@ -43,7 +43,7 @@ cv:
 
     Experience:
       - company: Itaú Unibanco
-        position: Estagiária
+        position: Cientista de Dados II
         location: São Paulo, SP
         start_date: 2022
         end_date: 2024
@@ -51,7 +51,7 @@ cv:
           - Atuo na criação de agentes de inteligência artificial.
 
       - company: Itaú Unibanco
-        position: Estagiária
+        position: Cientista de Dados I
         location: São Paulo, SP
         start_date: 2022
         end_date: 2024
