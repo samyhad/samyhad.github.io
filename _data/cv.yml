@@ -13,10 +13,10 @@ cv:
       username: samirahad
 
   address:
-    street: 
+    street:
     city: São Paulo
     region: São Paulo
-    postalCode: 
+    postalCode:
     countryCode: BR
 
   sections:
@@ -29,7 +29,6 @@ cv:
         start_date: 2024
         end_date: 2026
         score: ""
-        
 
       - institution: Universidade Federal do ABC (UFABC)
         location: Santo André, SP
@@ -39,7 +38,6 @@ cv:
         start_date: 2018
         end_date: 2024
         score: ""
-        
 
     Experience:
       - company: Itaú Unibanco
@@ -47,7 +45,7 @@ cv:
         location: São Paulo, SP
         start_date: 2022
         end_date: 2024
-        highlights: 
+        highlights:
           - Atuo na criação de agentes de inteligência artificial.
 
       - company: Itaú Unibanco
@@ -55,18 +53,16 @@ cv:
         location: São Paulo, SP
         start_date: 2022
         end_date: 2024
-        highlights: 
+        highlights:
           - Atuei como cientista de dados na produção de modelos tradicionais para área de recuperação de crédito.
-      
 
       - company: Itaú Unibanco
         position: Estagiária
         location: São Paulo, SP
         start_date: 2022
         end_date: 2024
-        highlights: 
+        highlights:
           - Atuei em duas áreas, primeiro em gestão de fornecedores e depois em ciência de dados.
-                 
 
       - company: Universidade federal do ABC
         position: Pesquisadora de Iniciação Científica
@@ -94,9 +90,8 @@ cv:
           - "Itaú Unibanco"
         date: 2024-09-01
         awarder: Itaú Unibanco
-        url: 
+        url:
         summary: A Batalha de Dados é um hackathon institucional promovido pelo Itaú Unibanco com o objetivo de fomentar a inovação, estimular a cultura Data Driven e encontrar soluções para desafios reais do mercado
-
 
     Publications:
       - title: Estudo de Interpretabilidade de Redes Neurais Profundas para Classificação de Imagens Médicas
@@ -105,8 +100,8 @@ cv:
           - Carlos da Silva dos Santos
         publisher: UFABC/CNpq
         releaseDate: 2023-08-30
-        url: 
-        summary: 
+        url:
+        summary:
 
       - title: Auxílio ao Diagnóstico em Imagens Médicas com Modelos Interpretáveis
         authors:
@@ -114,8 +109,8 @@ cv:
           - Carlos da Silva dos Santos
         publisher: UFABC/CNpq
         releaseDate: 2022-08-30
-        url: 
-        summary: 
+        url:
+        summary:
 
     Languages:
       - name: Português
@@ -193,5 +188,3 @@ cv:
     #       - Quantum Cryptography
     #     start_date: 2018-01-01
     #     end_date: 2018-01-01
-
-    

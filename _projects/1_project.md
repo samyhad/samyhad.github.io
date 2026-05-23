@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arbograph - uma aplicação didática interativa 
+title: Arbograph - uma aplicação didática interativa
 description: Algoritmos para o problema da arborescência geradora mínima em uma aplicação didática interativa
 img: assets/img/12.jpg
 importance: 1
