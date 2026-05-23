@@ -13,12 +13,12 @@ whatsapp_number: +55 (11) 98984-5070
 #   title: Custom Social
 #   url: https://www.alberteinstein.com/
 
-- name: GitHub
-  link: https://github.com/samyhad
-  icon: fa-brands fa-github
-  enabled: true
+# - name: GitHub
+#   link: https://github.com/samyhad
+#   icon: fa-brands fa-github
+#   enabled: true
 
-- name: LinkedIn
-  link: https://linkedin.com/in/samirahad
-  icon: fa-brands fa-linkedin
-  enabled: true
+# - name: LinkedIn
+#   link: https://linkedin.com/in/samirahad
+#   icon: fa-brands fa-linkedin
+#   enabled: true
