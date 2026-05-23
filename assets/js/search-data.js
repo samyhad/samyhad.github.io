@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "",
+          description: "cv",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -402,9 +402,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-algoritmos-para-o-problema-da-arborescência-geradora-mínima-uma-aplicação-didática-interativa",
-          title: 'Algoritmos para o problema da arborescência geradora mínima - uma aplicação didática interativa...',
-          description: "with background image",
+          section: "News",},{id: "projects-arbograph-uma-aplicação-didática-interativa",
+          title: 'Arbograph - uma aplicação didática interativa',
+          description: "Algoritmos para o problema da arborescência geradora mínima em uma aplicação didática interativa",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-travel-assistent",
@@ -447,13 +447,6 @@ ninja.data = [{
           window.open("mailto:%73%61%6D%69%72%61.%68%61%64.%32%30%30%30@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
@@ -466,6 +459,20 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://wa.me/+55 (11) 98984-5070", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/samyhad", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/samirahad", "_blank");
         },
       },{
       id: 'light-theme',
