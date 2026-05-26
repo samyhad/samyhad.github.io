@@ -90,9 +90,9 @@ cv:
           - "Itaú Unibanco"
         date: 2024-09-01
         awarder: Itaú Unibanco
-        url:
-        summary:
-        #summary: A Batalha de Dados é um hackathon institucional promovido pelo Itaú Unibanco com o objetivo de fomentar a inovação, estimular a cultura Data Driven e encontrar soluções para desafios reais do mercado
+        url: https://www.credly.com/badges/50217bef-d5aa-4bd3-9105-14e39392c05f/public_url
+        # summary:
+        summary: A Batalha de Dados é um hackathon institucional promovido pelo Itaú Unibanco com o objetivo de fomentar a inovação, estimular a cultura Data Driven e encontrar soluções para desafios reais do mercado
 
     Publications:
       - title: Estudo de Interpretabilidade de Redes Neurais Profundas para Classificação de Imagens Médicas
